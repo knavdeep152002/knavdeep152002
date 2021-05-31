@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navdeep.K</h1>
 
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
