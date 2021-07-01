@@ -21,9 +21,10 @@ Hello, I’m Navdeep.K, A Algorithms and AI/ML enthusiast. I do competetive codi
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20-%2360799C.svg?&style=for-the-badge&logo=Machine%20Learning&ogoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20-%23F0509C.svg?&style=for-the-badge&logo=DL)
-![Artificial Intelligence](https://img.shields.io/badge/Aretificial%20Intelligence%20-%2FFF000C.svg?&style=for-the-badge&logo=AI)
+![Machine Learning](https://img.shields.io/badge/ML%20-%2360799C.svg?&style=for-the-badge&logo=Machine%20Learning&ogoColor=white)
+![Deep Learning](https://img.shields.io/badge/DL%20-%23F0509C.svg?&style=for-the-badge&logo=DL)
+![Artificial Intelligence](https://img.shields.io/badge/AI%20-%2FFF000C.svg?&style=for-the-badge&logo=AI)
+![Computer Vision](https://img.shields.io/badge/CV%20-%2FFF000C.svg?&style=for-the-badge&logo=OpenCV)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
