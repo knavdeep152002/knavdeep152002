@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Navdeep.K, A Algorithms and AI/ML enthusiast. I do competetive coding, Codechef (5⭐) and Codefores (specialist, 1460). I am looking forward to learn things at the level of a GPT3.
+Hello, I’m Navdeep.K, A Algorithms, MERN Stack developer, AI/ML enthusiast. I do competetive coding, Codechef (5⭐) and Codefores (specialist, 1460). I am looking forward to learn things at the level of a GPT3.
 
 ## 🛠️ **Languages & Tools:**
 
