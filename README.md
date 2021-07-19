@@ -20,6 +20,8 @@ Hello, I’m Navdeep.K, A Algorithms and AI/ML enthusiast. I do competetive codi
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-eeeeee?style=for-the-badge&logo=MongoDB)
+![Node](https://img.shields.io/badge/-Node-eeeeee?style=for-the-badge&logo=Node)
 
 ![Machine Learning](https://img.shields.io/badge/ML%20-%2360799C.svg?&style=for-the-badge&logo=Machine%20Learning&ogoColor=white)
 ![Deep Learning](https://img.shields.io/badge/DL%20-%23F0509C.svg?&style=for-the-badge&logo=DL)
