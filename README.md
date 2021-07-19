@@ -19,11 +19,11 @@ Hello, I’m Navdeep.K, A Algorithms and AI/ML enthusiast. I do competetive codi
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
-![Node](https://img.shields.io/badge/-NodeJS-?style=for-the-badge&logo=NodeJS)
-![React](https://img.shields.io/badge/-ReactJS-?style=for-the-badge&logo=ReactJS)
+![Node](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=NodeJS)
+![React](https://img.shields.io/badge/-ReactJS-red?style=for-the-badge&logo=ReactJS)
 
-![MySQL](https://img.shields.io/badge/-MySQL-?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-?style=for-the-badge&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=MongoDB)
 
 ![Machine Learning](https://img.shields.io/badge/ML%20-%2360799C.svg?&style=for-the-badge&logo=Machine%20Learning&ogoColor=white)
 ![Deep Learning](https://img.shields.io/badge/DL%20-%23F0509C.svg?&style=for-the-badge&logo=DL)
