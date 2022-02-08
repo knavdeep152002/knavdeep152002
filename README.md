@@ -19,10 +19,12 @@ Hello, I’m Navdeep.K, A Algorithms, MERN Stack developer, AI/ML enthusiast. I 
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=for-the-badge&logo=FastAPI)
 ![Node](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=NodeJS)
 ![React](https://img.shields.io/badge/-ReactJS-red?style=for-the-badge&logo=ReactJS)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
+![Postgres SQL](https://img.shields.io/badge/-Postgres-white?style=for-the-badge&logo=postgres-sql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=MongoDB)
 
 ![Machine Learning](https://img.shields.io/badge/ML%20-%2360799C.svg?&style=for-the-badge&logo=Machine%20Learning&ogoColor=white)
