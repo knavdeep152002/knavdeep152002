@@ -38,5 +38,5 @@ Hello, I’m Navdeep.K, A Algorithms, MERN Stack developer, AI/ML enthusiast. I 
 
 ## 📫 **Link Tree:**
 <p align="center">
-<a href="https://www.linkedin.com/in/navdeep-k-471524194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Navdeep.K" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/navdeep-konkipudi-471524194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Navdeep.K" height="40" width="40" /></a>
 <a href="mailto:navdeep152002@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Navdeep.K" height="40" width="40" /></a>
